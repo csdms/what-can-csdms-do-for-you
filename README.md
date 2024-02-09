@@ -10,3 +10,8 @@ git clone https://github.com/csdms/what-can-csdms-do-for-you
 docker run --rm -p 1948:1948 -p 35729:35729 -v $PWD/what-can-csdms-do-for-you:/slides webpronl/reveal-md:latest /slides --watch
 ```
 The service is now running at http://localhost:1948.
+
+Or, install and run reveal-md locally (here, with custom styles):
+```
+reveal-md csdms.md -w --css css/csdms.cs
+```
