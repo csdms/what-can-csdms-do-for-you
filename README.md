@@ -11,7 +11,7 @@ docker run --rm -p 1948:1948 -p 35729:35729 -v $PWD/what-can-csdms-do-for-you:/s
 ```
 The service is now running at http://localhost:1948.
 
-Or, install and run reveal-md locally (here, with custom styles):
+Or, install and run reveal-md locally (with `-w` to autoupdate on change):
 ```
-reveal-md csdms.md -w --css css/csdms.cs
+reveal-md csdms.md -w
 ```
