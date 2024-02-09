@@ -1,0 +1,8 @@
+:root {
+    --r-main-font-size: 1.25em;
+}
+
+p {
+    color: #0ff;
+    font-size: 120%;
+}
