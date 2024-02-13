@@ -96,3 +96,28 @@ A Python framework for running and coupling models with a Basic Model Interface.
 A Python toolkit for creating models.
 
 > [landlab.readthedocs.io](https://landlab.readthedocs.io)
+
+<!-- s -->
+
+# Data Components
+
+\~
+
+Datasets or data formats wrapped with a Basic Model Interface.
+
+> [csdms.colorado.edu/wiki/DataComponents](https://csdms.colorado.edu/wiki/DataComponents)
+
+<!-- v -->
+
+The current list of data components:
+
+* ERA5
+* GeoTIFF
+* GridMET
+* NWIS
+* SoilGrids
+* OpenTopography
+* WaveWatch III
+* ROMS
+
+Note: Would you like to contribute a data component? Let us know!
