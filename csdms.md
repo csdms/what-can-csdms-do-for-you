@@ -18,30 +18,6 @@ An overview of CSDMS products, services, and events
 
 <!-- s -->
 
-# Slide 1
-
-This is slide 1
-
-<!-- v -->
-
-# Slide 1a
-
-This is slide 1a
-
-<!-- v -->
-
-# Slide 1b
-
-This is slide 1b
-
-<!-- s -->
-
-# Slide 2
-
-This is slide 2
-
-<!-- s -->
-
 # Basic Model Interface
 ## (BMI)
 
