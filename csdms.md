@@ -18,6 +18,33 @@ An overview of CSDMS products, services, and events
 
 <!-- s -->
 
+# What is CSDMS?
+
+<!-- v -->
+
+(Three pillars image goes here.)
+
+<!-- s -->
+
+# Products
+
+<!-- v -->
+
+# CSDMS Workbench
+
+\~
+
+A system of software elements for building, coupling, and running models.
+
+* Basic Model Interface (BMI)
+* Standard Names
+* Babelizer
+* Python Modeling Toolkit (pymt)
+* Landlab
+* Data Components
+
+<!-- s -->
+
 # Basic Model Interface
 ## (BMI)
 
@@ -54,7 +81,6 @@ Wrap models exposing a Basic Model Interface in Python.
 <!-- s -->
 
 # Python Modeling Toolkit
-
 ## (pymt)
 
 \~
@@ -97,3 +123,45 @@ The current list of data components:
 * ROMS
 
 Note: Would you like to contribute a data component? Let us know!
+
+<!-- s -->
+
+## How do these elements work together?
+
+<!-- v -->
+
+(Diagram goes here.)
+
+<!-- s -->
+
+# Services
+
+<!-- v -->
+
+CSDMS offers services to its community members.
+
+* Model Repository
+* Teaching Labs
+* EarthscapeHub
+* Supercomputing
+* Help Desk
+* Office Hours
+* Forum
+* RSEaaS
+
+<!-- s -->
+
+# Events
+
+<!-- v -->
+
+CSDMS holds in-person and remote events for its community members.
+
+* Annual Meeting
+* Webinars
+* ESPIn
+* Roadshows
+
+<!-- s -->
+
+# Summary
