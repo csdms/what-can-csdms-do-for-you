@@ -151,6 +151,86 @@ CSDMS offers services to its community members.
 
 <!-- s -->
 
+# Model Repository
+
+\~
+
+A registry for >400 numerical models and scientific software tools.
+
+> [csdms.colorado.edu/wiki/Model_download_portal](https://csdms.colorado.edu/wiki/Model_download_portal)
+
+<!-- s -->
+
+# Teaching Labs
+
+\~
+
+A library of modular teaching labs that can augment undergrad/grad course material.
+
+> [csdms.colorado.edu/wiki/Labs_portal](https://csdms.colorado.edu/wiki/Labs_portal)
+
+<!-- s -->
+
+# EarthscapeHub
+
+\~
+
+A cloud-based computational platform for research, teaching, and software development.
+
+> [csdms.colorado.edu/wiki/JupyterHub](https://csdms.colorado.edu/wiki/JupyterHub)
+
+<!-- s -->
+
+# Supercomputing
+
+\~
+
+Access a state-of-the-art supercomputing resource.
+
+> [csdms.colorado.edu/wiki/HPC](https://csdms.colorado.edu/wiki/HPC)
+
+<!-- s -->
+
+# Help Desk
+
+\~
+
+Ask questions. Get answers (about CSDMS products and services).
+
+> [csdms.github.io/help-desk](https://csdms.github.io/help-desk)
+
+<!-- s -->
+
+# Office Hours
+
+\~
+
+Bring your questions! We'll do the best we can to answer them.
+
+> [csdms.colorado.edu/wiki/OfficeHours](https://csdms.colorado.edu/wiki/OfficeHours)
+
+<!-- s -->
+
+# Forum
+
+\~
+
+Connect, share information, and discuss all things CSDMS.
+
+> [github.com/csdms/welcomes/discussions](https://github.com/csdms/welcomes/discussions)
+
+<!-- s -->
+
+# RSEaaS
+
+\~
+
+Do you need assistance with software development on project? CSDMS can help.
+
+> [csdms.colorado.edu/wiki/RSE](https://csdms.colorado.edu/wiki/RSE)
+
+<!-- s -->
+
 # Events
 
 <!-- v -->
