@@ -244,4 +244,44 @@ CSDMS holds in-person and remote events for its community members.
 
 <!-- s -->
 
+# Annual Meeting
+
+\~
+
+See your favorite earth and planetary surface processes researchers, all in one place.
+
+> [csdms.colorado.edu/wiki/Form:Annualmeeting2024](https://csdms.colorado.edu/wiki/Form:Annualmeeting2024)
+
+<!-- s -->
+
+# Webinars
+
+\~
+
+Stay up to date with presentations on the latest research from community members.
+
+> [csdms.colorado.edu/wiki/Webinars](https://csdms.colorado.edu/wiki/Webinars)
+
+<!-- s -->
+
+# ESPIn
+
+\~
+
+An intensive course in numerical modeling \& best practices in scientific software development.
+
+> [csdms.colorado.edu/wiki/ESPIn](https://csdms.colorado.edu/wiki/ESPIn)
+
+<!-- s -->
+
+# Roadshows
+
+\~
+
+Let CSDMS come to your institution to talk about best practices in scientific software development.
+
+> [csdms.colorado.edu/wiki/Roadshows](https://csdms.colorado.edu/wiki/Roadshows)
+
+<!-- s -->
+
 # Summary
