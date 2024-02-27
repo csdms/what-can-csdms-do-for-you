@@ -285,3 +285,25 @@ Let CSDMS come to your institution to talk about best practices in scientific so
 <!-- s -->
 
 # Summary
+
+<!-- v -->
+
+CSDMS develops and manages a suite of products, services, and events<br>with the goal of accelerating research in the Earth and planetary surface processes community.
+
+### What can CSDMS do for you?
+
+<!-- s -->
+
+# Thank you!
+
+<!-- s -->
+
+# What can CSDMS do for you?
+
+An overview of CSDMS products, services, and events
+
+<a href="https://csdms.colorado.edu">
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
+</a>
+
+> Mark Piper<br><small>mark.piper@colorado.edu</small>
