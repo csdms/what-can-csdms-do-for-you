@@ -28,11 +28,11 @@ An overview of CSDMS products, services, and events
 
 # Products
 
-<!-- s -->
+<!-- v -->
 
 CSDMS develops a system of software elements for building, coupling, and running models.
 
-<!-- s -->
+<!-- v -->
 
 # Basic Model Interface
 ## (BMI)
@@ -45,7 +45,7 @@ A standardized set of functions for controlling models.
 
 Note: I tried to make a pithy, one-sentence description for each product.
 
-<!-- s -->
+<!-- v -->
 
 # Standard Names
 
@@ -57,7 +57,7 @@ Rules and patterns for creating specific and unambiguous variable names.
 
 Note: I intentionally made my slides boring so you have to listen to me.
 
-<!-- s -->
+<!-- v -->
 
 <img align="center" width="50px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
@@ -67,7 +67,7 @@ Wrap models exposing a Basic Model Interface in Python.
 
 > [babelizer.readthedocs.io](https://babelizer.readthedocs.io)
 
-<!-- s -->
+<!-- v -->
 
 # Python Modeling Toolkit
 ## (pymt)
@@ -78,7 +78,7 @@ A Python framework for running and coupling models with a Basic Model Interface.
 
 > [pymt.readthedocs.io](https://pymt.readthedocs.io)
 
-<!-- s -->
+<!-- v -->
 
 # Landlab
 
@@ -88,7 +88,7 @@ A Python toolkit for creating models.
 
 > [landlab.readthedocs.io](https://landlab.readthedocs.io)
 
-<!-- s -->
+<!-- v -->
 
 # Data Components
 
@@ -113,7 +113,7 @@ The current list of data components:
 
 Note: Would you like to contribute a data component? Let us know!
 
-<!-- s -->
+<!-- v -->
 
 ## How do these elements work together?
 
@@ -121,7 +121,7 @@ Note: Would you like to contribute a data component? Let us know!
 
 ![CSDMS Workbench Workflow](./assets/csdms-workbench-workflow.png)
 
-<!-- s -->
+<!-- v -->
 
 # Summary: Products
 
@@ -138,11 +138,11 @@ CSDMS develops a system of software elements for building, coupling, and running
 
 # Services
 
-<!-- s -->
+<!-- v -->
 
 CSDMS offers research-enhancing services to its community members.
 
-<!-- s -->
+<!-- v -->
 
 # Model Repository
 
@@ -152,7 +152,7 @@ A registry for >400 numerical models and scientific software tools.
 
 > [csdms.colorado.edu/wiki/Model_download_portal](https://csdms.colorado.edu/wiki/Model_download_portal)
 
-<!-- s -->
+<!-- v -->
 
 # Teaching Labs
 
@@ -162,7 +162,7 @@ A library of modular teaching labs that can augment undergrad/grad course materi
 
 > [csdms.colorado.edu/wiki/Labs_portal](https://csdms.colorado.edu/wiki/Labs_portal)
 
-<!-- s -->
+<!-- v -->
 
 # EarthscapeHub
 
@@ -172,7 +172,7 @@ A cloud-based computational platform for research, teaching, and software develo
 
 > [csdms.colorado.edu/wiki/JupyterHub](https://csdms.colorado.edu/wiki/JupyterHub)
 
-<!-- s -->
+<!-- v -->
 
 # Supercomputing
 
@@ -182,7 +182,7 @@ Access a state-of-the-art supercomputing resource for free.
 
 > [csdms.colorado.edu/wiki/HPC](https://csdms.colorado.edu/wiki/HPC)
 
-<!-- s -->
+<!-- v -->
 
 # Help Desk
 
@@ -192,7 +192,7 @@ Ask questions, get answers (about CSDMS products and services).
 
 > [csdms.github.io/help-desk](https://csdms.github.io/help-desk)
 
-<!-- s -->
+<!-- v -->
 
 # Office Hours
 
@@ -202,7 +202,7 @@ Bring your questions! We'll do the best we can to answer them.
 
 > [csdms.colorado.edu/wiki/OfficeHours](https://csdms.colorado.edu/wiki/OfficeHours)
 
-<!-- s -->
+<!-- v -->
 
 # Forum
 
@@ -212,7 +212,7 @@ Connect, share information, and discuss all things CSDMS.
 
 > [github.com/csdms/welcomes/discussions](https://github.com/csdms/welcomes/discussions)
 
-<!-- s -->
+<!-- v -->
 
 # RSEaaS
 
@@ -222,7 +222,7 @@ Do you need software development on a project? CSDMS can help.
 
 > [csdms.colorado.edu/wiki/RSE](https://csdms.colorado.edu/wiki/RSE)
 
-<!-- s -->
+<!-- v -->
 
 # Summary: Services
 
@@ -241,11 +241,11 @@ CSDMS offers research-enhancing services to its community members.
 
 # Events
 
-<!-- s -->
+<!-- v -->
 
 CSDMS holds in-person and remote events for its community members.
 
-<!-- s -->
+<!-- v -->
 
 # Annual Meeting
 
@@ -255,7 +255,7 @@ See your favorite earth and planetary surface processes researchers, all in one 
 
 > [csdms.colorado.edu/wiki/Form:Annualmeeting2024](https://csdms.colorado.edu/wiki/Form:Annualmeeting2024)
 
-<!-- s -->
+<!-- v -->
 
 # Webinars
 
@@ -265,7 +265,7 @@ Stay up to date on the latest research from community members.
 
 > [csdms.colorado.edu/wiki/Webinars](https://csdms.colorado.edu/wiki/Webinars)
 
-<!-- s -->
+<!-- v -->
 
 # ESPIn
 
@@ -275,7 +275,7 @@ An intensive course in numerical modeling \& best practices in scientific softwa
 
 > [csdms.colorado.edu/wiki/ESPIn](https://csdms.colorado.edu/wiki/ESPIn)
 
-<!-- s -->
+<!-- v -->
 
 # Roadshows
 
@@ -285,7 +285,7 @@ Let CSDMS come to your institution to talk about best practices in scientific so
 
 > [csdms.colorado.edu/wiki/Roadshows](https://csdms.colorado.edu/wiki/Roadshows)
 
-<!-- s -->
+<!-- v -->
 
 # Summary: Events
 
