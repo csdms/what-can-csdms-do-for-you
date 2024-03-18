@@ -22,7 +22,7 @@ An overview of CSDMS products, services, and events
 
 <!-- v -->
 
-(Three pillars image goes here.)
+![The Three Pillars of CSDMS](./assets/csdms-three-pillars.png)
 
 <!-- s -->
 
@@ -130,7 +130,7 @@ Note: Would you like to contribute a data component? Let us know!
 
 <!-- v -->
 
-(Diagram goes here.)
+![CSDMS Workbench Workflow](./assets/csdms-workbench-workflow.png)
 
 <!-- s -->
 
