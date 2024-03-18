@@ -28,20 +28,9 @@ An overview of CSDMS products, services, and events
 
 # Products
 
-<!-- v -->
+<!-- s -->
 
-# CSDMS Workbench
-
-\~
-
-A system of software elements for building, coupling, and running models.
-
-* Basic Model Interface (BMI)
-* Standard Names
-* Babelizer
-* Python Modeling Toolkit (pymt)
-* Landlab
-* Data Components
+CSDMS develops a system of software elements for building, coupling, and running models.
 
 <!-- s -->
 
@@ -134,20 +123,24 @@ Note: Would you like to contribute a data component? Let us know!
 
 <!-- s -->
 
+# Summary: Products
+
+CSDMS develops a system of software elements for building, coupling, and running models.
+
+* Basic Model Interface (BMI)
+* Standard Names
+* Babelizer
+* Python Modeling Toolkit (pymt)
+* Landlab
+* Data Components
+
+<!-- s -->
+
 # Services
 
-<!-- v -->
+<!-- s -->
 
-CSDMS offers services to its community members.
-
-* Model Repository
-* Teaching Labs
-* EarthscapeHub
-* Supercomputing
-* Help Desk
-* Office Hours
-* Forum
-* RSEaaS
+CSDMS offers research-enhancing services to its community members.
 
 <!-- s -->
 
@@ -185,7 +178,7 @@ A cloud-based computational platform for research, teaching, and software develo
 
 \~
 
-Access a state-of-the-art supercomputing resource.
+Access a state-of-the-art supercomputing resource for free.
 
 > [csdms.colorado.edu/wiki/HPC](https://csdms.colorado.edu/wiki/HPC)
 
@@ -195,7 +188,7 @@ Access a state-of-the-art supercomputing resource.
 
 \~
 
-Ask questions. Get answers (about CSDMS products and services).
+Ask questions, get answers (about CSDMS products and services).
 
 > [csdms.github.io/help-desk](https://csdms.github.io/help-desk)
 
@@ -225,22 +218,32 @@ Connect, share information, and discuss all things CSDMS.
 
 \~
 
-Do you need assistance with software development on project? CSDMS can help.
+Do you need software development on a project? CSDMS can help.
 
 > [csdms.colorado.edu/wiki/RSE](https://csdms.colorado.edu/wiki/RSE)
 
 <!-- s -->
 
+# Summary: Services
+
+CSDMS offers research-enhancing services to its community members.
+
+* Model Repository
+* Teaching Labs
+* EarthscapeHub
+* Supercomputing
+* Help Desk
+* Office Hours
+* Forum
+* RSEaaS
+
+<!-- s -->
+
 # Events
 
-<!-- v -->
+<!-- s -->
 
 CSDMS holds in-person and remote events for its community members.
-
-* Annual Meeting
-* Webinars
-* ESPIn
-* Roadshows
 
 <!-- s -->
 
@@ -258,7 +261,7 @@ See your favorite earth and planetary surface processes researchers, all in one 
 
 \~
 
-Stay up to date with presentations on the latest research from community members.
+Stay up to date on the latest research from community members.
 
 > [csdms.colorado.edu/wiki/Webinars](https://csdms.colorado.edu/wiki/Webinars)
 
@@ -284,7 +287,19 @@ Let CSDMS come to your institution to talk about best practices in scientific so
 
 <!-- s -->
 
+# Summary: Events
+
+CSDMS holds in-person and remote events for its community members.
+
+* Annual Meeting
+* Webinars
+* ESPIn
+* Roadshows
+
+<!-- s -->
+
 # Summary
+## (of summaries)
 
 <!-- v -->
 
