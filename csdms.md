@@ -32,7 +32,7 @@ An overview of CSDMS products, services, and events
 
 ## CSDMS develops a system of software elements for building, coupling, and running models
 
-## We call this system the *CSDMS Workbench*
+### We call this system the *CSDMS Workbench*
 
 <!-- v -->
 
