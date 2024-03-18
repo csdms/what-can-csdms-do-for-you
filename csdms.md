@@ -30,7 +30,9 @@ An overview of CSDMS products, services, and events
 
 <!-- v -->
 
-CSDMS develops a system of software elements for building, coupling, and running models.
+## CSDMS develops a system of software elements for building, coupling, and running models
+
+## We call this system the *CSDMS Workbench*
 
 <!-- v -->
 
@@ -134,13 +136,15 @@ CSDMS develops a system of software elements for building, coupling, and running
 * Landlab
 * Data Components
 
+We call this system the *CSDMS Workbench*.
+
 <!-- s -->
 
 # Services
 
 <!-- v -->
 
-CSDMS offers research-enhancing services to its community members.
+## CSDMS offers research-enhancing services for its community members.
 
 <!-- v -->
 
@@ -226,7 +230,7 @@ Do you need software development on a project? CSDMS can help.
 
 # Summary: Services
 
-CSDMS offers research-enhancing services to its community members.
+CSDMS offers research-enhancing services for its community members.
 
 * Model Repository
 * Teaching Labs
@@ -243,7 +247,7 @@ CSDMS offers research-enhancing services to its community members.
 
 <!-- v -->
 
-CSDMS holds in-person and remote events for its community members.
+## CSDMS holds in-person and remote events for its community members.
 
 <!-- v -->
 
