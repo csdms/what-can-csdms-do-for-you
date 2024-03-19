@@ -127,7 +127,7 @@ Note: Would you like to contribute a data component? Let us know!
 
 # Summary: Products
 
-CSDMS develops a system of software elements for building, coupling, and running models.
+CSDMS develops software (the *CSDMS Workbench*) for building, coupling, and running models.
 
 * Basic Model Interface (BMI)
 * Standard Names
@@ -136,7 +136,7 @@ CSDMS develops a system of software elements for building, coupling, and running
 * Landlab
 * Data Components
 
-We call this system the *CSDMS Workbench*.
+See what's new at the [Software Release Dashboard](https://csdms.colorado.edu/wiki/SoftwareReleases).
 
 <!-- s -->
 
