@@ -11,7 +11,7 @@ verticalSeparator: <!-- v -->
 An overview of CSDMS products, services, and events
 
 <a href="https://csdms.colorado.edu">
-<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/csdms-logo-bars.png">
 </a>
 
 > Mark Piper<br><small>mark.piper@colorado.edu</small>
@@ -19,6 +19,8 @@ An overview of CSDMS products, services, and events
 <!-- s -->
 
 # What is CSDMS?
+
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/csdms-logo-bars.png">
 
 <!-- v -->
 
@@ -28,6 +30,8 @@ An overview of CSDMS products, services, and events
 
 # Products
 
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/csdms-logo-bars.png">
+
 <!-- v -->
 
 ## CSDMS develops a system of software elements for building, coupling, and running models
@@ -36,10 +40,10 @@ An overview of CSDMS products, services, and events
 
 <!-- v -->
 
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
+
 # Basic Model Interface
 ## (BMI)
-
-\~
 
 A standardized set of functions for controlling models.
 
@@ -49,9 +53,9 @@ Note: I tried to make a pithy, one-sentence description for each product.
 
 <!-- v -->
 
-# Standard Names
+<img align="center" width="50px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
+# Standard Names
 
 Rules and patterns for creating specific and unambiguous variable names.
 
@@ -71,10 +75,10 @@ Wrap models exposing a Basic Model Interface in Python.
 
 <!-- v -->
 
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
+
 # Python Modeling Toolkit
 ## (pymt)
-
-\~
 
 A Python framework for running and coupling models with a Basic Model Interface.
 
@@ -82,9 +86,9 @@ A Python framework for running and coupling models with a Basic Model Interface.
 
 <!-- v -->
 
-# Landlab
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# Landlab
 
 A Python toolkit for creating models.
 
@@ -92,9 +96,9 @@ A Python toolkit for creating models.
 
 <!-- v -->
 
-# Data Components
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# Data Components
 
 Datasets or data formats wrapped with a Basic Model Interface.
 
@@ -142,15 +146,17 @@ See what's new at the [Software Release Dashboard](https://csdms.colorado.edu/wi
 
 # Services
 
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/csdms-logo-bars.png">
+
 <!-- v -->
 
 ## CSDMS offers research-enhancing services for its community members.
 
 <!-- v -->
 
-# Model Repository
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# Model Repository
 
 A registry for >400 numerical models and scientific software tools.
 
@@ -158,9 +164,9 @@ A registry for >400 numerical models and scientific software tools.
 
 <!-- v -->
 
-# Teaching Labs
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# Teaching Labs
 
 A library of modular teaching labs that can augment undergrad/grad course material.
 
@@ -168,9 +174,9 @@ A library of modular teaching labs that can augment undergrad/grad course materi
 
 <!-- v -->
 
-# EarthscapeHub
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# EarthscapeHub
 
 A cloud-based computational platform for research, teaching, and software development.
 
@@ -178,9 +184,9 @@ A cloud-based computational platform for research, teaching, and software develo
 
 <!-- v -->
 
-# Supercomputing
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# Supercomputing
 
 Access a state-of-the-art supercomputing resource for free.
 
@@ -188,9 +194,9 @@ Access a state-of-the-art supercomputing resource for free.
 
 <!-- v -->
 
-# Help Desk
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# Help Desk
 
 Ask questions, get answers (about CSDMS products and services).
 
@@ -198,9 +204,9 @@ Ask questions, get answers (about CSDMS products and services).
 
 <!-- v -->
 
-# Office Hours
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# Office Hours
 
 Bring your questions! We'll do the best we can to answer them.
 
@@ -208,9 +214,9 @@ Bring your questions! We'll do the best we can to answer them.
 
 <!-- v -->
 
-# Forum
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# Forum
 
 Connect, share information, and discuss all things CSDMS.
 
@@ -218,9 +224,9 @@ Connect, share information, and discuss all things CSDMS.
 
 <!-- v -->
 
-# RSEaaS
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# RSEaaS
 
 Do you need software development on a project? CSDMS can help.
 
@@ -245,15 +251,17 @@ CSDMS offers research-enhancing services for its community members.
 
 # Events
 
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/csdms-logo-bars.png">
+
 <!-- v -->
 
 ## CSDMS holds in-person and remote events for its community members.
 
 <!-- v -->
 
-# Annual Meeting
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# Annual Meeting
 
 See your favorite earth and planetary surface processes researchers, all in one place.
 
@@ -261,9 +269,9 @@ See your favorite earth and planetary surface processes researchers, all in one 
 
 <!-- v -->
 
-# Webinars
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# Webinars
 
 Stay up to date on the latest research from community members.
 
@@ -271,9 +279,9 @@ Stay up to date on the latest research from community members.
 
 <!-- v -->
 
-# ESPIn
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# ESPIn
 
 An intensive course in numerical modeling \& best practices in scientific software development.
 
@@ -281,9 +289,9 @@ An intensive course in numerical modeling \& best practices in scientific softwa
 
 <!-- v -->
 
-# Roadshows
+<img align="center" width="50px" style="margin:10px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
-\~
+# Roadshows
 
 Let CSDMS come to your institution to talk about best practices in scientific software development.
 
@@ -303,17 +311,22 @@ CSDMS holds in-person and remote events for its community members.
 <!-- s -->
 
 # Summary
-## (of summaries)
+
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/csdms-logo-bars.png">
 
 <!-- v -->
 
-CSDMS develops and manages a suite of products, services, and events<br>with the goal of accelerating research in the Earth and planetary surface processes community.
+## CSDMS develops and manages a suite of products, services, and events with the goal of accelerating research in the Earth and planetary surface processes community
 
-### What can CSDMS do for you?
+<!-- v -->
+
+# What can CSDMS do for you?
 
 <!-- s -->
 
 # Thank you!
+
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/csdms-logo-bars.png">
 
 <!-- s -->
 
@@ -322,7 +335,7 @@ CSDMS develops and manages a suite of products, services, and events<br>with the
 An overview of CSDMS products, services, and events
 
 <a href="https://csdms.colorado.edu">
-<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/csdms-logo-bars.png">
 </a>
 
 > Mark Piper<br><small>mark.piper@colorado.edu</small>
