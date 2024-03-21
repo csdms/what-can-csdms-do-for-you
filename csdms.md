@@ -220,7 +220,7 @@ Bring your questions! We'll do the best we can to answer them.
 
 Connect, share information, and discuss all things CSDMS.
 
-> [github.com/csdms/welcomes/discussions](https://github.com/csdms/welcomes/discussions)
+> [github.com/csdms/project/discussions](https://github.com/csdms/project/discussions)
 
 <!-- v -->
 
