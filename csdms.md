@@ -20,9 +20,13 @@ An overview of CSDMS products, services, and events
 
 # What is CSDMS?
 
+<a href="https://csdms.colorado.edu">
 <img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/csdms-logo-bars.png">
+</a>
 
 <!-- v -->
+
+CSDMS supports computational modeling in earth-surface science<br>by engaging community, providing computing resources, and promoting education.
 
 ![The Three Pillars of CSDMS](./assets/csdms-three-pillars.png)
 
