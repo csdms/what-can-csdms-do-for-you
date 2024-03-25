@@ -117,6 +117,9 @@ The current list of data components:
 * WaveWatch III
 * ROMS
 
+For more on data components, see Gan *et al.* (2024):<br>
+https://doi.org/10.5194/gmd-17-2165-2024.
+
 Note: Would you like to contribute a data component? Let us know!
 
 <!-- v -->
