@@ -51,7 +51,7 @@ CSDMS supports computational modeling in earth-surface science<br>by engaging co
 
 A standardized set of functions for controlling models.
 
-> [bmi.readthedocs.io](https://bmi.readthedocs.io)
+> [bmi.csdms.io](https://bmi.csdms.io)
 
 Note: I tried to make a pithy, one-sentence description for each product.
 
@@ -96,7 +96,7 @@ A Python framework for running and coupling models with a Basic Model Interface.
 
 A Python toolkit for creating models.
 
-> [landlab.readthedocs.io](https://landlab.readthedocs.io)
+> [landlab.csdms.io](https://landlab.csdms.io)
 
 <!-- v -->
 
@@ -227,7 +227,7 @@ Bring your questions! We'll do the best we can to answer them.
 
 Connect, share information, and discuss all things CSDMS.
 
-> [github.com/csdms/project/discussions](https://github.com/csdms/project/discussions)
+> [forum.csdms.io](https://forum.csdms.io)
 
 <!-- v -->
 
@@ -272,7 +272,7 @@ CSDMS offers research-enhancing services for its community members.
 
 See your favorite earth and planetary surface processes researchers, all in one place.
 
-> [csdms.colorado.edu/wiki/Form:Annualmeeting2024](https://csdms.colorado.edu/wiki/Form:Annualmeeting2024)
+> [csdms.colorado.edu/wiki/Form:Annualmeeting2025](https://csdms.colorado.edu/wiki/Form:Annualmeeting2025)
 
 <!-- v -->
 
@@ -300,7 +300,7 @@ An intensive course in numerical modeling \& best practices in scientific softwa
 
 # Roadshows
 
-Let CSDMS come to your institution to talk about best practices in scientific software development.
+Let CSDMS come to your institution to talk about best practices in geoscientific software development.
 
 > [csdms.colorado.edu/wiki/Roadshows](https://csdms.colorado.edu/wiki/Roadshows)
 
