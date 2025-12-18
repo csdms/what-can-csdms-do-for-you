@@ -32,27 +32,27 @@ CSDMS supports computational modeling in earth-surface science<br>by engaging co
 
 <!-- v -->
 
-CSDMS is an international community of researchers studying surface processes, with an emphasis on modeling.
+### CSDMS is an international community of researchers<br>studying surface processes, with an emphasis on modeling.
 
 <!-- v -->
 
-Modeling requires code.
+### Modeling requires code.
 
 <!-- v -->
 
-Historically, scientists haven't been great at writing code.
+### Historically, scientists haven't been great at writing code.
 
 <!-- v -->
 
-A secondary emphasis at CSDMS is on helping scientists write [FAIR software](https://www.nature.com/articles/s41597-022-01710-x)--code that's findable, accessible, interoperable, and reusable.
+### A secondary emphasis at CSDMS is on helping scientists write [FAIR software](https://www.nature.com/articles/s41597-022-01710-x)--code that's findable, accessible, interoperable, and reusable.
 
 <!-- v -->
 
-Science is first, but software is an engine that drives science.
+### Science is first, but software is an engine that drives science.
 
 <!-- v -->
 
-Better software enhances scientific productivity.
+### Better software enhances scientific productivity.
 
 <!-- s -->
 
