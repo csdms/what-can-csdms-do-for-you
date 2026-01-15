@@ -26,9 +26,33 @@ An overview of CSDMS products, services, and events
 
 <!-- v -->
 
-CSDMS supports computational modeling in earth-surface science<br>by engaging community, providing computing resources, and promoting education.
+### CSDMS = Community Surface Dynamics Modeling System
+### CSDMS is an international community of researchers<br>studying surface processes, with an emphasis on modeling.
+
+<!-- v -->
+
+### CSDMS supports researchers by engaging community,<br>providing computing resources, and promoting education.
 
 ![The Three Pillars of CSDMS](./assets/csdms-three-pillars.png)
+
+<!-- v -->
+
+### Let's focus on the "M" in CSDMS.
+### Modeling requires code.
+
+<!-- v -->
+
+### Scientists receive little training on writing code.
+
+<!-- v -->
+
+### A secondary emphasis at CSDMS is on helping scientists write code that is [FAIR](https://www.nature.com/articles/s41597-022-01710-x)--findable, accessible, interoperable, and reusable.
+
+<!-- v -->
+
+### Science is first, but software is an engine that drives science.
+
+### Better software enhances scientific productivity.
 
 <!-- s -->
 
@@ -49,7 +73,7 @@ CSDMS supports computational modeling in earth-surface science<br>by engaging co
 # Basic Model Interface
 ## (BMI)
 
-A standardized set of functions for controlling models.
+A standard set of functions for controlling models.
 
 > [bmi.csdms.io](https://bmi.csdms.io)
 
@@ -290,7 +314,7 @@ Stay up to date on the latest research from community members.
 
 # ESPIn
 
-An intensive course in numerical modeling \& best practices in scientific software development.
+An intensive course on modeling \& best practices in geoscientific software development.
 
 > [csdms.colorado.edu/wiki/ESPIn](https://csdms.colorado.edu/wiki/ESPIn)
 
