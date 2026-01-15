@@ -26,31 +26,31 @@ An overview of CSDMS products, services, and events
 
 <!-- v -->
 
-CSDMS supports computational modeling in earth-surface science<br>by engaging community, providing computing resources, and promoting education.
+### CSDMS = Community Surface Dynamics Modeling System
+### CSDMS is an international community of researchers<br>studying surface processes, with an emphasis on modeling.
+
+<!-- v -->
+
+### CSDMS supports researchers by engaging community,<br>providing computing resources, and promoting education.
 
 ![The Three Pillars of CSDMS](./assets/csdms-three-pillars.png)
 
 <!-- v -->
 
-### CSDMS is an international community of researchers<br>studying surface processes, with an emphasis on modeling.
-
-<!-- v -->
-
+### Let's focus on the "M" in CSDMS.
 ### Modeling requires code.
 
 <!-- v -->
 
-### Historically, scientists haven't been great at writing code.
+### Scientists receive little training on writing code.
 
 <!-- v -->
 
-### A secondary emphasis at CSDMS is on helping scientists write [FAIR software](https://www.nature.com/articles/s41597-022-01710-x)--code that's findable, accessible, interoperable, and reusable.
+### A secondary emphasis at CSDMS is on helping scientists write code that is [FAIR](https://www.nature.com/articles/s41597-022-01710-x)--findable, accessible, interoperable, and reusable.
 
 <!-- v -->
 
 ### Science is first, but software is an engine that drives science.
-
-<!-- v -->
 
 ### Better software enhances scientific productivity.
 
