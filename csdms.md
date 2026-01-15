@@ -73,7 +73,7 @@ An overview of CSDMS products, services, and events
 # Basic Model Interface
 ## (BMI)
 
-A standardized set of functions for controlling models.
+A standard set of functions for controlling models.
 
 > [bmi.csdms.io](https://bmi.csdms.io)
 
@@ -314,7 +314,7 @@ Stay up to date on the latest research from community members.
 
 # ESPIn
 
-An intensive course in numerical modeling \& best practices in scientific software development.
+An intensive course on modeling \& best practices in geoscientific software development.
 
 > [csdms.colorado.edu/wiki/ESPIn](https://csdms.colorado.edu/wiki/ESPIn)
 
